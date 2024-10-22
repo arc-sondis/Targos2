@@ -1,38 +1,40 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Targos",
+		"leaderName": "Sondis Hedgefire",
+		"adjective": ["targosi"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Targosi are a fiercely resilient and proud people. Their curse shapes not just their land but their identity as well, forging them into adept problem solvers who thrive on challenges. Their mastery of sailing has forged a deep connection to the sea, giving them an advantage in both trade and warfare. With their fierce independence and unwillingness to submit to any rule, the Targosi have a rich culture of storytelling and traditions that celebrate their defiance and ingenuity.",
+		"startIntroPart2": "Targos yearns yet for another challenge, will you, Sondis Hedgefire, take the mantle of Admiral, and lead them to, and through any challenge that awaits them? Will you dominate the sea?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "The sea is ours!",
+		"attacked": "Hah, I welcome your challenge.",
+		"defeated": "We gave it our all, and yet you bested us. Well fought, honored victor",
+		"introduction": "Good tides, I am Sondis Hedgefire, I represent Targos, and all It's fury, devotion, and the spirit to fight till the very end.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "What's up?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "Well, well, well. Looks like the tides washed up a wretch upon our shores. What does the wretch want?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "I would suggest you watch the seas closely, we'll probably strike again.",
+		"tradeRequest": "Let's make a deal, or you know, we could just take it.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [78,118,98],
+		"innerColor": [61,140,224],
+		"uniqueName": "The Sea is Ours!",
+		"uniques": ["[All] units gain the [Expert Salvagers] promotion",
+                        "[+1 Production] from every [Fishing Boats]",
+			"Starts with [Sailing]"],
+		"cities": ["Targos","Ten-Towns","Slano","Shark's Tooth","Rafters","Deadpass","Shipwreck City","Coven",
+			"Fort Wreck","Landing Point"],
+		"spyNames": ["Cabby", "Jax", "Enka", "Franny", "Mitts", "Tido", "Sylwyn", "Mobu", "Arty", "Wendy"]
 	}
 ]
