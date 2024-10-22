@@ -1,25 +1,15 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Shark Idol",
+                "replaces": "Lighthouse",
+		"uniqueTo": "Targos",
+		"faith": 2,
+		"cost": 75,
+		"maintenance": 1,
+                "uniques": ["Must be next to [Coast]",
+                "[+1 Food] from [Ocean] tiles [in this city]",
+	        "[+1 Food] from [Coast] tiles [in this city]", 
+                "[+2 Food] from [Fish] tiles [in this city]" ],
+		"requiredTech": "Optics"
 	}
 ]
