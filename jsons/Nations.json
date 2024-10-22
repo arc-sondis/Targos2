@@ -27,8 +27,8 @@
 		"afterPeace": "I would suggest you watch the seas closely, we'll probably strike again.",
 		"tradeRequest": "Let's make a deal, or you know, we could just take it.",
 
-		"outerColor": [78,118,98],
-		"innerColor": [61,140,224],
+		"outerColor": [61,140,224],
+		"innerColor": [15,23,19],
 		"uniqueName": "The Sea is Ours!",
 		"uniques": ["[All] units gain the [Expert Salvagers] promotion",
                         "[+1 Production] from every [Fishing Boats]",
